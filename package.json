@@ -1,0 +1,15 @@
+{
+  "name": "adamBot",
+  "version": "1.0.0",
+  "description": "Adams Bot",
+  "main": "bot.js",
+  "author": "Adam",
+  "private": true,
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.4.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7"
+  }
+}
