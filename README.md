@@ -6,4 +6,6 @@ npm install discord.js
 ```
 
 Run:
+```
 node bot.js
+```
